@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/dap-github-agent-template/commit/0ee0930a41cd3234a8664c3757f70bfa694297f3",
       "git:hexsha": "0ee0930a41cd3234a8664c3757f70bfa694297f3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:18:19.195573+00:00"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/dap-github-agent-template/commit/a437a5d399a4cf7c4359edacb2b151239fa763f2",
